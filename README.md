@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **"Open source project"**
 
-- 🤝 I’m looking for help with **"HTML, CSS, PYTHON,JAVASCRIPT,REACT.JS"**
+- 🤝 I’m looking for help with **"PYTHON,JAVASCRIPT,REACT.JS,MYSQL"**
 
-- 💬 Ask me about **"CSS,JAVASCRIPT,REACT,PYTHON"**
+- 💬 Ask me about **"CSS,JAVASCRIPT,REACT.JS,HTML"**
 
 - 📫 How to reach me **rishuraj1127@gmail.com**
 
