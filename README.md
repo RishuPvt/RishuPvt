@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rishu Raj</h1>
+<h1 align="center">Hi 👋,Rishu This Side.. </h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **"NODE.JS ,MONGO DB"**
+- 🌱 I’m currently learning **"Express.JS ,Mongo DB"**
 
 - 👯 I’m looking to collaborate on **"Open source project"**
 
-- 🤝 I’m looking for help with **"PYTHON,JAVASCRIPT,REACT.JS,MYSQL"**
+- 🤝 I’m looking for help with **"PYTHON,Express.js,Mongo DB"**
 
 - 💬 Ask me about **"CSS,JAVASCRIPT,REACT.JS,HTML"**
 
