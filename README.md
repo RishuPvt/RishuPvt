@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,Rishu This Side.. </h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **"Express.JS ,Mongo DB"**
+- 🌱 I’m currently learning **"JAVA ,Mongo DB"**
 
 - 👯 I’m looking to collaborate on **"Open source project"**
 
