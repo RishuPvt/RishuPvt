@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋,Rishu This Side.. </h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **"JAVA SPRINGBOOT,Mongo DB"**
+- 🌱 I’m currently learning **"SPRINGBOOT,Mongo DB"**
 
 - 👯 I’m looking to collaborate on **"Open source project"**
 
-- 🤝 I’m looking for help with **"JAVA SPRINGBOOT,JAVA,Mongo DB"**
+- 🤝 I’m looking for help with **"JAVA,SPRINGBOOT,Mongo DB"**
 
 - 💬 Ask me about **"JAVA,JAVASCRIPT,REACT.JS,CSS,HTML"**
 
