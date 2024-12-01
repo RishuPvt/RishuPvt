@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋,Rishu This Side.. </h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **"Express.js,Mongo DB"**
+- 🌱 I’m currently learning **"SQL , Node.js"**
 
 - 👯 I’m looking to collaborate on **"Open source project"**
 
-- 🤝 I’m looking for help with **"JAVA,Node.js,Mongo DB"**
+- 🤝 I’m looking for help with **"JAVA,Node.js"**
 
-- 💬 Ask me about **"JAVA,JAVASCRIPT,REACT.JS,CSS,HTML"**
+- 💬 Ask me about **"JAVA,JAVASCRIPT,REACT.JS,CSS,HTML ,EXPRESS ,MONGODB"**
 
 - 📫 How to reach me **rishuraj1127@gmail.com**
 
