@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋,Rishu This Side.. </h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **"Next.js ,PostgreSQL"**
+- 🌱 I’m currently learning **"ReactNative,PostgreSQL"**
 
 - 👯 I’m looking to collaborate on **"Open source project"**
 
-- 🤝 I’m looking for help with **"PostgreSQL,Node.js"**
-
-- 💬 Ask me about **"avaScript , Express.js , React.js , MongoDB"**
+- 💬 Ask me about **"JavaScript , Express.js , React.js , MongoDB"**
 
 - 📫 How to reach me **rishuraj1127@gmail.com**
 
@@ -34,7 +32,7 @@
             <td align="center"><img src="https://skillicons.dev/icons?i=ts" /></td>
           </tr>
           <tr>
-            <td align="center"><img src="https://www.mongodb.com" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=prisma" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
