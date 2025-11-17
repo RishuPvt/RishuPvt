@@ -28,7 +28,7 @@
           <tr>
             <td align="center"><img src="https://skillicons.dev/icons?i=react" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=express" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=next" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=django" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=ts" /></td>
           </tr>
           <tr>
